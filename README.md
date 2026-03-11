@@ -5,9 +5,8 @@ This platform helps users **track money lent to people, monitor payments receive
 
 # 🚀 Live Demo
 
-*(Add your deployed link here after deployment)*
+https://debt-tracker-0dlk.onrender.com
 
-Example:
 
 # 📌 Features
 
@@ -26,7 +25,6 @@ Example:
 # 🖥️ Dashboard Preview
 
 
-```<img width="1911" height="973" alt="Screenshot 2026-03-11 171340" src="https://github.com/user-attachments/assets/eb363a68-5706-4727-812a-a252cd45a786" />
 
 
 ---
@@ -56,6 +54,8 @@ Example:
 
 # 📂 Project Structure
 
+
+
 ```
 DebtTracker/
 │
@@ -68,6 +68,8 @@ DebtTracker/
 │    
 │
 └── database.db
+
+
 
 # ⚙️ Installation & Setup
 
